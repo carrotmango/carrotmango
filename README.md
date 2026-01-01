@@ -1,8 +1,4 @@
-<div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CarrotMango🍋)
-
-</div>
 
 ## 😺 About Me
 #### Developer interested in integrating AI, games, and crypto systems.<br/>
