@@ -60,6 +60,6 @@
   ## Github Stats
   [![Carrotmango's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrotmango)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcarrotmango)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrotmango)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
